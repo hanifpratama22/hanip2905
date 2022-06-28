@@ -1,9 +1,9 @@
 /* Algoritma
- 1. Cari rumus keliling lingkaran
- 2. Temukan panjang jari-jari lingkaran
+ 1. Cari rumus keliling lingkaran yang sudah ditentukan
+ 2. Temukan panjang jari-jari lingkaran tersebut
  3. Kalikan dengan pi (3.14)
  4. Kalikan dengan 2
- 5. Tampilkan hasil
+ 5. Tampilkan hasilnya dari proses yang sudah di hitung 
 
  Diketahui
  jari-jari = 14
